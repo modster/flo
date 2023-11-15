@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6964d35de1935441",
+        "id": "d586a153790db945",
         "type": "tabs",
         "children": [
           {
-            "id": "d2a90f4f70a5b2f4",
+            "id": "f6955f91545b0795",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/2023-11-15.md",
+                "file": "template/main.ts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "856d4b5e800bca2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "template-master/gitignore.md.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 221.505859375
   },
   "right": {
     "id": "4a825ea76085725f",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/2023-11-15.md",
+                "file": "template-master/gitignore.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/2023-11-15.md",
+                "file": "template-master/gitignore.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/2023-11-15.md"
+                "file": "template-master/gitignore.md.md"
               }
             }
           }
@@ -146,26 +159,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2a90f4f70a5b2f4",
+  "active": "1dd3755ba85909a1",
   "lastOpenFiles": [
-    "flo.code-workspace",
-    "template-master/esbuild.config.mjs",
-    "template-master/main.ts",
-    "template-master/manifest.json",
-    "template-master/package.json",
-    "template-master/README.md",
-    "template-master/styles.css",
-    "template-master/tsconfig.json",
-    "template-master/version-bump.mjs",
-    "template-master/versions.json",
-    "template-master/template-master/versions.json",
-    "template-master/template-master/version-bump.mjs",
-    "template-master/template-master/README.md",
+    "Untitled.md",
+    "template-master/gitignore.md.md",
+    "template/main.ts.md",
+    "template/deno.json.md",
+    "template/flo.code-workspace.md",
+    "template/tsconfig.json.md",
+    "template/tsconfig.json",
     "template/github/workflows/deploy.yml.md",
     "template/github/ISSUES_TEMPLATE/ISSUES_TEMPLATE.md.md",
-    "template/src/main.js.md",
+    "template/github/workflows",
+    "template/github/ISSUES_TEMPLATE",
     "template/github/config.yml.md",
+    "template/github",
+    "template/main_test.ts.md",
+    "template/deno.json",
+    "deno.json",
+    "main_test.ts",
+    "main.ts",
     "template/vite.config.md",
+    "notes/2023-11-15.md",
+    "notes/db/notes",
+    "notes/db",
+    "template-master/README.md",
+    "template-master/template-master/README.md",
+    "template/src/main.js.md",
     "template/tailwind.config.md",
     "template/svelte.config.md",
     "template/README.md",
@@ -176,13 +196,6 @@
     "templates/github/workflows/deploy.yml.md",
     "templates/github/ISSUES_TEMPLATE/ISSUES_TEMPLATE.md.md",
     "templates/github/config.yml.md",
-    "templates/src/main.js.md",
-    "templates/vite.config.md",
-    "templates/tailwind.config.md",
-    "templates/package.json.md",
-    "templates/svelte.config.md",
-    "templates/README.md",
-    "templates/jsconfig.json.md",
-    "templates/LICENSE.md"
+    "templates/src/main.js.md"
   ]
 }
