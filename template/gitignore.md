@@ -1,5 +1,3 @@
-
-
 # .gitignore
 
 ## draft
@@ -31,50 +29,32 @@ data.json
 
 ```
 
+
+---
+
 ## init
 
 ```
 # vscode
-
-.vscode
-
-  
+.vscode 
 
 # Intellij
-
 *.iml
-
 .idea
 
-  
-
 # npm
-
 node_modules
 
-  
-
 # Don't include the compiled main.js file in the repo.
-
 # They should be uploaded to GitHub releases instead.
-
 main.js
 
-  
-
 # Exclude sourcemaps
-
 *.map
 
-  
-
 # obsidian
-
 data.json
 
-  
-
 # Exclude macOS Finder (System Explorer) View States
-
 .DS_Store
 ```

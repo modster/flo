@@ -4,7 +4,7 @@ tags:
   - json
   - draft
 ---
-# deno.json
+# [[deno.json]]
 
 ## draft
 
@@ -21,8 +21,11 @@ tags:
 - [ ] deno inserts template values
 - [ ] deno copies files to root
 - [ ] deno build cmd `deno task ...`
+
+
+
 ---
-## [[init]]
+## init
 
 `deno init`
 
@@ -34,4 +37,6 @@ tags:
 }
 
 ```
+
+
 

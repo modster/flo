@@ -3,6 +3,28 @@ tags:
   - todo
   - ts
 ---
+# main_test.ts
+
+#todo 
+## draft
+
+- [ ] count files
+- [ ] assert equals files/filenames
+	- [ ] .gitignore
+	- [ ] .github
+	- [ ] LICENSE
+	- [ ] 
+- [ ] version bump
+- [ ] 
+
+```ts
+
+
+```
+
+
+---
+
 ## init
 
 ```ts
