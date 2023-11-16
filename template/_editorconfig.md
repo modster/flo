@@ -1,3 +1,10 @@
+# .editorconfig
+
+## draft
+
+- [ ] vscode plugin required???
+
+```txt
 # top-most EditorConfig file
 root = true
 
@@ -8,3 +15,6 @@ insert_final_newline = true
 indent_style = tab
 indent_size = 4
 tab_width = 4
+
+```
+

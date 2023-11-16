@@ -2,6 +2,19 @@
 
 ## draft
 
+- [ ] update:
+	- [ ] name
+	- [ ] id
+	- [ ] name
+	- [ ] version
+	- [ ] [[minAppVersion]]
+		- [ ] manual bump then [version-bump.mjs](obsidian://open?vault=flo&file=template%2Fversion-bump.mjs)
+	- [ ] description
+	- [ ] author
+	- [ ] authorUrl
+	- [ ] fundingUrl
+	- [ ] isDesktopOnly
+
 ```json
 {
 	"id": "sample-plugin",

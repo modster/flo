@@ -2,8 +2,15 @@
 
 ## draft
 
+`+` `.env`
+`+` `.env.*`
+
 
 ```
+# environment variables 
+.env
+.env.*
+
 # vscode
 .vscode 
 

@@ -1,3 +1,8 @@
+# .eslintrc
+
+## draft
+
+```json
 {
     "root": true,
     "parser": "@typescript-eslint/parser",
@@ -21,3 +26,5 @@
       "@typescript-eslint/no-empty-function": "off"
     } 
   }
+  
+```

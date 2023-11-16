@@ -1,8 +1,13 @@
 # [[version-bump.mjs]]
 
-> You can simplify the version bump process by running `npm version patch`, `npm version minor` or `npm version major` after updating `minAppVersion` manually in `manifest.json`.
+### Note:
+> You can simplify the version bump process by running `npm version patch`, `npm version minor` or `npm version major` after updating [[miniAppVersion|manifest.json]] manually in `manifest.json`.
 > The command will bump version in `manifest.json` and `package.json`, and add the entry for the new version to `versions.json`
 
+- [ ] update [[minAppVersion]] manually in `manifest.json` then:
+	- [ ] npm version patch or
+	- [ ] npm version minor or
+	- [ ] npm version major
 ## draft
 
 
